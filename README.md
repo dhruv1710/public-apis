@@ -123,7 +123,7 @@
 * [Government](#government)
 * [Health](#health)
 * [Jobs](#jobs)
-* [Machine Learning](#machine-learning)
+* [AI/ML](#ai/ml)
 * [Music](#music)
 * [News](#news)
 * [Open Data](#open-data)
@@ -1156,9 +1156,11 @@ API | Description | Auth | HTTPS | CORS |
 | [ZipRecruiter](https://www.ziprecruiter.com/publishers) | Job search app and website | `apiKey` | Yes | Unknown |
 
 **[⬆ Back to Index](#index)**
-### Machine Learning
+### AI/ML
 API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
+| [OpenAI](https://openai.com/product) | GPT, Image generation, Text completions and Speech recognition | `apiKey` | Yes | No |
+| [AI21](https://openai.com/product) | Reading and Writing AI & Jamba LLM | `apiKey` | Yes | No |
 | [AI For Thai](https://aiforthai.in.th/index.php) | Free Various Thai AI API | `apiKey` | Yes | Yes |
 | [Clarifai](https://docs.clarifai.com/api-guide/api-overview) | Computer Vision | `OAuth` | Yes | Unknown |
 | [Cloudmersive](https://www.cloudmersive.com/image-recognition-and-processing-api) | Image captioning, face recognition, NSFW classification | `apiKey` | Yes | Yes |
